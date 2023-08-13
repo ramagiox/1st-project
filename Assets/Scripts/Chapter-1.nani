@@ -1,0 +1,915 @@
+;1. EXT. LANGIT - AFTERNOON
+
+@back Sunny
+Perempuan: Kenapa kamu seringkali mendiamkanku? Padahal aku ... aku mencintaimu!
+Lelaki: Maafkan aku.
+Perempuan: Maaf apanya!? Padahal, selama ini aku memperhatikanmu! Aku biasa membuatkanmu bekal supaya kamu semangat untuk pertandingan! Aku juga menjengukmu waktu sakit!
+Lelaki: Tapi kenapa? Kenapa kamu biasa mendiamkanku? Kamu dingin sekali! Chat dariku cuma dibalas ya dan tidak, terus percakapan jadi mati.
+Perempuan: Aneh sekali, tiba-tiba kamu mengajakku ke taman untuk memberikanku cincin ini? Kamu cuma bercanda, ya? Apa kamu habis didatangi sama abang-abang pembawa acara prank, terus beri kamu tantangan buat pura-pura melamarku, gitu--mm!
+Lelaki: Mmh! Dasar kebanyakan bicara, kucium saja biar berhenti!
+Perempuan: ...!
+Lelaki: Aku mencintaimu, TAHU!!
+
+@hidePrinter
+;2. INT. PERPUSTAKAAN SEKOLAH - AFTERNOON
+@back Library.CircleReveal time:2
+@set Cahya="Cahya"
+Cahya: ... Dan begitulah inti cerita yang saya baca hari ini. 
+
+Sesudah membacakan ringkasan "Baca Apa Hari Ini?" dalam selebaran kertas, aku memperhatikan teman-teman se-ekskul literasi.
+Beberapa di antara mereka ada yang cuek, ada juga yang memperhatikanku.
+
+@set Nurul="Bu Nurul"
+Nurul: Zzz ..., grook ..., fyuuuh ....
+
+Bu Nurul, guru ekskul sekaligus guru bahasa Indonesia kami, malah ketiduran di pojokan.
+
+;(ket. font kecil)
+@set Other1="Anggota Literasi Cowok A"
+@set Other2="Anggota Literasi Cowok B"
+Other1: Hmmph, fffhh ...! Ada juga cowok yang baca gituan ....
+Other2: Khkhkh, si Cahya itu, mana isinya cinta-cintaan yang pasaran, lagi!
+
+Nah, di antara orang-orang yang memperhatikanku inilah, ada yang senyam-senyum mengejek.
+
+Cahya: ....... 
+Cahya: Yaa, kalian pikir emangnya aku sendiri sukarela baca buku ginian?
+
+Other1: Loh, kok bisa dengar!?
+Other2: Perasaan, jarak kita 10 orang dari situ, deh!
+
+;marah
+@char Lili.LiliSeragamMarah2 pos:,-100
+Riana: Sst, jangan ribut di perpus!
+Riana: Kita emang di ruang ekskul yang ada pintunya sendiri, sih, tapi kan ini hitungannya masih di perpus!
+@hideChars
+Cahya: Ah, sori.
+
+Other1: Hmmh.
+Other2: Ya, ya.
+
+Aku kembali duduk ke tempat semula.
+Riana, teman satu ekskulku itu memang cukup peduli pada keberlangsungan perpustakaan.
+Meski dengan penampilannya yang cukup fashionable dan menjadi sosok primadona di angkatanku, dia adalah cewek yang rajin membaca di perpustakaan. Sungguh beda dari tipikal cewek primadona outdoor yang biasa kuketahui.
+Padahal baru awal semester dua, tapi Mas Rizal, ketua ekskul yang sekarang ini, sudah pernah membicarakan kalau dia bakal diangkat jadi ketua ekskul literasi untuk tahun ajaran berikutnya.
+
+@set Rizal="Rizal"
+Rizal: Oke, Cahya. Ringkasan tadi sudah bagus, kamu menceritakan bagian konflik dengan tidak terlalu detail, tapi kamu sedetail itu waktu membahas klimaks cerita. 
+Rizal: Apa kamu sesuka itu sama bagian ciuman di tengah-tengah ributnya itu?
+Cahya: Sejujurnya ....
+
+Aku melirik ke Riana, cewek yang merekomendasikan buku novel itu padaku.
+Yah, sebelum kegiatan membaca dimulai, memang aku sempat iseng bertanya pada Riana karena bosan membaca ensiklopedia dari minggu kemarin.
+Yang kutanya tadi, "Novel romance yang belakangan ini banyak diomongin cewek, kira-kira apa, ya?"
+Dan dia pun langsung merekomendasikan buku ini: "Cinta Semanis Es Krim Mochi". Plus tulisan "BEST SELLER" di pojok kanan bawahnya.
+
+;Riana: (Memandang dengan mata berbinar)
+
+Cahya: ... Nggak juga, Mas! Justru aku merasa cringe di bagian itu, justru gara-gara cringe itu, aku sendiri heran kenapa aku bisa cerita bagian itu dengan detail, maksudku, apanya yang romantis dari bagian cewek yang tiba-tiba dicium sama cowok yang dingin sama dia!?
+
+;Riana: (Kaget)
+;(SFX. bom)
+
+Cahya: Kenapa buku ini bisa sampai Best Seller? Heran. Padahal, plotnya terlalu loncat-loncat, transisi romansanya juga maksa. 
+Cahya: Kalau misalnya ada adegan yang mana menunjukkan bahwa si cowok ini terlihat DENGAN JELAS bahwa dia peduli, harusnya ditunjukkan dengan lebih baik lagi, lah! Jangan cuma ... tau-tau ngelamar aja di akhir!
+
+;(SFX. Gebrak meja)
+
+@char Lili.LiliSeragamMarah2
+Riana: Cahya, kamu gak paham!? Novel ini, tuh, digandrungi sama pembaca Wotped soalnya banyak adegan uwu-uwunya! Gula banget, makanya tiap aku baca novel ini, tuh, sambil minum kopi hitam seenggaknya 5 gelas!
+Riana: Kamu pasti bacanya nggak serius, ya!? Padahal, di halaman 45 paragraf 2, kelihatan kalo si cewek udah susah payah bikinin dia bekal bentuk lope-lope pake sliced beef, terus si cowok DISUAPIN!
+Riana: Padahal bisa aja kan cewek itu diusir. Tapi enggak, tuh! Si cowok mau-mau aja disuapin, tuh! Dia makan yang bentuk lope-lope duluan, tuh! Manis banget, gak, tuh!
+Riana: Ah, satu lagi! Kamu segampang itu lupa sama tokoh-tokohnya? Yang cewek itu Arini Narnia Rania, yang cowok itu Angkasa Cakrawala Galaksi Bimasakti!
+@hideChars
+
+Makin panas, saudara-saudara. Anggota lain pada memperhatikan kami.
+
+@set Other1="Anggota Literasi Cewek A"
+@set Other2="Anggota Literasi Cewek B"
+Other1: Waduh, Cahya malah menyulut api.
+Other2: Padahal nggak usah terlalu jujur, ya.
+@set Other1="Anggota Literasi Cowok A"
+Other1: Novelnya beneran jelek, ya? Hehe.
+
+Aku nggak peduli, pokoknya aku harus bilang kalau ini novel nggak pantas buat dapet label "BEST SELLER"! 
+
+AKU HARUS BERARGUMEN!
+
+SAMPAI TITIK DARAH PENGHABISAN!
+
+Cahya: Lah, harus banget peduli sama nama-nama yang ribet dan panjang gitu?
+Cahya: Lagian, apanya yang manis? Sepanjang buku ini, kebanyakannya cuma usaha si cewek aja. Mana usaha cowok yang disukainya? Apa jangan-jangan, aslinya cuma rasa kasihan saja?
+
+@char Lili.LiliSeragamMarah1
+Riana: Itu bukan kasihan! Itu bentuk pedulinya si cowok, tahu!
+
+;(Tersipu)
+@char Lili.LiliSeragamMalu2
+Riana: Cowok yang pendiam, dingin, tapi sebenarnya penuh perhatian dan asertif! Ditambah lagi, rajin olahraga! Aaah, benar-benar cowok ideal para cewek!
+Cahya: Cowok dingin? Jadi, kamu sukanya tokoh cowok yang lebih sering cuekin kamu kayak gitu. Kalo kamu di posisi si cewek, emangnya kamu suka dicuekin dan sakit hati, ya?
+;(Marah)
+@char Lili.LiliSeragamMarah1
+Riana: Hah? Dari dalam hatinya, dia tuh aslinya peduli! Cuma, dia nggak tau gimana caranya mengekspresikan perasaannya. 
+;(Ngiler)
+@char Lili.LiliSeragamNgidol
+Riana: Makanya, gara-gara kesulitannya mengekspresikan perasaannya itulah, jadinya dia biasa menatap si cewek dengan dingin, walau malah jadi terlihat sadis! Aah, cowok sadis!
+
+@hideChars
+;(Ket. Font besar)
+Cahya: Masokis, ya, Mbak!?
+Rizal: Ssshhh, sudah, sudah!!
+Nurul: Grook ..., eng, emh! Eh, monyong-monyong!
+Rizal: Cahya, perhatikan suaramu. 
+Cahya: ... Maaf.
+Rizal: Riana, kamu sendiri yang bilang jangan berisik di perpustakaan, lho.
+
+@char Lili.LiliSeragamSenyum
+Riana: Ups, maaf.
+@hideChars
+
+Nurul: Eng, maaf Bu Nurul tadi ketiduran, hehehe. Tadi ada apa, ya? Kayaknya tadi Ibu mimpi ada gorila versus king kong di depan.
+Rizal: E-enggak ada apa-apa, Bu.
+Rizal: Kalau kalian mau debat lebih lanjut, nanti saja waktu selesai ekskul, oke?
+
+Aku dan Riana cuma saling tatap dengan senyum masam.
+
+Rizal: Oke, giliran berikutnya ....
+
+;3. EXT. KORIDOR KELAS - AFTERNOON
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back SchoolHallway.LineReveal time:1.5
+
+Akhirnya ekskul selesai juga.
+Kebanyakan murid sudah pulang karena jadwal ekskulnya di hari berbeda. Kegiatan ekskul literasi memang cukup lama, bisa dibilang yang paling lama hari ini.
+
+@char Lili.LiliSeragamSerius
+Cahya: Sori yang tadi, aku kelewatan.
+
+@char Lili.LiliSeragamTertawa
+Riana: Ahaha ..., nggak masalah. Aku juga aslinya sadar kalo bukunya nggak buat semua orang, kok.
+@hideChars
+
+Aku menoleh ke lapangan. Tampaknya, saat ini ekskul bulutangkis masih melakukan kegiatannya. Mungkin, untuk persiapan lomba bulan depan.
+Aku berjalan bersebelahan dengan Riana.
+Beberapa cowok yang dari luar ekskul kami pun sempat memperhatikan kami berdua.
+Bagi cowok-cowok YANG naksir Riana, mungkin ini adalah pemandangan yang nggak bisa dimaafkan. Paling-paling, bakal ada gosip kalau aku pacaran sama dia, tapi kayaknya nggak mungkin, soalnya pembicaraan kami masih berkutat di perdebatan perkara buku romansa.
+Dibilang berdebat, pun, kami tidak melakukannya dengan kepala panas seperti tadi.
+
+@char Lili.LiliSeragamSerius
+Cahya: Tapi aku masih nggak paham, sih. Apa sekarang cewek-cewek suka baca romansa yang seperti itu?
+
+;(Senyum canggung)
+@char Lili.LiliSeragamSenyum
+Riana: Yaaah, selera sih, selera! Cuma, aku juga sadar, sih, kalo di pasaran novel romance kebanyakan dijual yang ceritanya kurang lebih kayak gitu. 
+Riana: Aku sendiri ada teman dekat yang nggak suka baca romance, kok. Malah, sukanya baca yang fokus di sport, gitu. Udah gitu, bacaannya komik, lagi.
+Riana: Tapi, yah, KEBANYAKAN dari teman-temanku sih, jelas suka sama novel romance!
+;(Tersipu)
+@char Lili.LiliSeragamNgidol
+Riana: Cewek manis sama cowok jutek. Terus, cowok jutek itu luluh oleh kebaikan si cewek dan akhirnya jadian. Singkat ceritanya gitu.
+Cahya: Tapi, kalo inti ceritanya gitu-gitu aja, apa bedanya, dong?
+;(Senyum)
+@char Lili.LiliSeragamSenyum
+Riana: Yah, di tambahan-tambahannya. Misalnya, ternyata si cowok punya konflik di keluarganya, makanya sikapnya dingin sama orang lain. Atau, si cewek kecelakaan sehingga si cowok merasa kesepian.
+Riana: Dan kamu mungkin mikir, kenapa kok pembaca mau membaca cerita yang karakter tokoh-tokohnya sama aja dari satu buku ke buku yang lain.
+Cahya: Iya, lah. Kenapa nggak cari buku dengan tokoh yang kepribadiannya beda-beda?
+;(Serius)
+
+@char Lili.LiliSeragamSerius
+Riana: 'Kesamaan', Cahya. 'Kesamaan'. Kalo kamu suka sama tokoh dari buku A, misalnya, 'Ah, aku suka si X soalnya pendiam dan jago olahraga! ' mungkin, berikutnya kamu bakalan cari buku lain dengan tokoh Y dari buku B yang kepribadiannya kurang lebih sama-sama pendiam dan jago olahraga juga!
+Riana: Di sisi lain, orang-orang yang suka dengan buku A dan B, atau tokoh X dan Y, bakal terinspirasi dan bikin buku C dengan tokoh Z yang terinspirasi dari dua buku sebelumnya. 
+Riana: Dan begitu terus, makin banyak dan makin banyak buku-buku yang punya 'kesamaan'!
+
+@char Lili.LiliSeragamSenyum
+Riana: Yak, jadi, buku-buku yang 'kurang lebih sama' itu laku di pasaran karena banyak peminatnya.
+Cahya: Kalo 'kurang lebih sama', bukannya malah lebih sulit dapet Best Seller?
+@char Lili.LiliSeragamSerius
+Riana: Soalnya, kayak yang aku bilang tadi, ya. Di dalam 'kesamaan', ada tambahan-tambahan juga yang bikin pembaca tertarik, terus rekomendasi buku itu ke orang-orang dengan selera yang sama.
+@char Lili.LiliSeragamSenyum
+Riana: Nah, buku yang tadi aku rekomen itu banyak uwu-uwunya. Sesuai judul, isinya gemes-gemes kenyal kayak mochi. Dingin kayak es, tapi manis kayak es krim! Makanya, banyak yang suka, terus laku di webnovel dan novel cetak!
+Cahya: Bentar, tadi judulnya apa, ya?
+@char Lili.LiliSeragamMarah2
+Riana: Aduh, belum ada sehari masak lupa!? Makanya, baca backlog!
+Cahya: Ah, males! Kejauhan!
+@hideChars
+
+;4. EXT. LANGIT - AFTERNOON
+@hidePrinter
+@back Sunny.Crossfade time:1.5
+
+Kayaknya, perkataan Riana tadi ada benarnya juga.
+Walau aku sendiri juga memiliki beberapa cerita favorit yang berbeda-beda genre, kurasa aku bisa menemukan benang merah kesamaan dari buku-buku yang kubaca, walau nggak sebegitu eksplisit yang dikatakan Riana.
+Aku meyukai cerita yang mana ada latar sore hari di akhir. Terutama jika senja menjelang maghrib. 
+Nilai plus dariku itu kalau ada narasi soal langit sore yang berwarna oranye, lah, bintang pertama yang mulai menampakkan diri, lah, wah, aku suka sekali itu.
+Menurutku, sore hari adalah penutup dari segala kesulitan di siang hari yang terik.
+Jika pagi adalah orientasi, siang adalah konflik, sore adalah resolusi, maka malam adalah epilog. Dini hari adalah prolog. Kadang prolog dan epilog dibutuhkan, kadang tidak, sih.
+
+
+;5. EXT. LUAR SEKOLAH - AFTERNOON
+@hidePrinter
+@back SchoolGates.LineReveal time:1.5
+
+Cahya: Balik ke soal selera tokoh yang di buku tadi itu ...
+
+Apa berarti, 'cowok ideal' di mata cewek-cewek itu biasanya yang dingin, pendiam, asertif, plus jago olahraga?
+
+;(Berpikir)
+@char Lili.LiliSeragamSerius
+Riana: Bisa dibilang gitu, sih. 
+Riana: Cewek, kan, suka sama cowok yang lebih kuat. Udah naluri.
+@hideChars
+
+Riana mencegat Angkot yang lewat sekolah. Angkot itu pun berhenti.
+
+@char Lili.LiliSeragamTertawa
+Riana: Duluan, ya!
+
+Aku menanggapinya dengan anggukan. Sesudah itu, angkot tersebut berangkat.
+@hideChars
+Eh, belum ada 100 meter, tahu-tahu angkotnya balik mundur lagi.
+
+@char Lili.LiliSeragamTertawa
+Riana: Oh, ya, kelupaan! TAMPANG! Itu nomer satu. Cowok juga suka cewek yang tampangnya cakep, kan? Makanya, biar aku dapet cowok cakep, aku sendiri juga harus cakep. Daah!
+Cahya: Lah, itu angkot mundur cuma biar kamu ngomong itu doang!?
+@hideChars
+
+Salah satu contoh Beauty Privilege dari Riana: supir angkot bisa diminta mundur.
+
+;6. EXT. JALAN KECIL - AFTERNOON
+
+Mumpung masih ada waktu sebelum lulus SMA dan kuliah dan kerja, kayaknya nggak ada salahnya berusaha jadi cowok ideal di kehidupan yang sangat ideal. 
+Lulus SMA -> kuliah (mungkin ketemu jodoh) -> kerja (mungkin ketemu jodoh) -> menikah.
+Yah, walaupun "cowok ideal" yang dibilang Riana di novel yang kubaca tadi terlalu payah, sih. Seenggaknya buatku.
+
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back ApartmentFront.LineReveal time:1.5
+;7. EXT. DEPAN KOS - AFTERNOON
+
+Pulang-pulang, kulihat Pak Arya lagi menyapu teras dengan wajah yang agak murung.
+Aneh, padahal bapak kos yang satu ini paling semangat kalau urusan bersih-bersih rumah. 
+Untung ada Pak Arya, jadinya lingkungan kos ini selalu kelihatan bersih apalagi di kamar mandi.
+
+Cahya: Permisi, Pak.
+@set Arya="Pak Arya"
+Arya: Eh, Cahya!
+
+Pak Arya menghentikan sapuannya, lalu mencegatku yang mau masuk ke pintu kos dari belakang.
+
+Arya: Kamu lihat Lili di sekolah?
+Cahya: Nggak lihat, Pak.
+Arya: Aduh, masak nggak lihat, Cah? Dia kan ekskulnya hari ini juga, kayak kamu!
+Cahya: Kan, beda ekskul.
+Arya: Dia, kan, ekskul bulutangkis, harusnya kelihatan di lapangan, pasti kalo lewat lapangan ada anaknya!
+
+Sejujurnya, aku bahkan nggak terlalu ingat Lili itu yang mana.
+Walau tinggalnya di bangunan yang sama, aku jarang ketemu sama anaknya bapak kos. Paling-paling, cuma waktu berangkat sekolah aku berpapasan sama dia.
+Biasanya, kalau dia coba kusapa jadinya seperti ini.
+
+;8. EXT. DEPAN KOS - DAY - PAST
+
+@hidePrinter
+@back ApartmentFrontPast.CircleReveal time:2
+Cahya: Eh ..., halo.
+
+@set Lili="Lili"
+@char Lili.LiliSeragamSerius
+Lili: ...
+@hideChars
+;(Senyum canggung, mengangguk)
+;(SFX. Lari)
+
+Terus, dia jalan duluan. Atau lebih tepatnya lari.
+Atau begini.
+
+
+@char Lili.LiliSeragamSerius
+Cahya: Eng ..., hari ini waktunya UAS semester I, ya.
+;(senyum canggung)
+Lili: I-iya.
+Cahya: Apa kamu udah siap?
+Lili: Enggak tahu ... a-aku duluan, ya.
+@hideChars
+;(SFX. Lari)
+Cahya: Laaah?
+
+Segitunya aku dijauhi sama anaknya bapak kos, ya. Apa gara-gara aku pernah pulang agak kemalaman dari rental PS, ya?
+Ah, masak gara-gara itu.
+Aku nggak terlalu ambil pusing soal itu, sih.
+
+;9. EXT. DEPAN KOS - AFTERNOON
+
+@hidePrinter
+@back ApartmentFront.CircleReveal time:1.5
+
+Oh, dari flashback tadi sekarang aku ingat rupanya Lili seperti apa. Rambut lurus, agak lebih panjang dari bahu. 
+
+Cahya: Tapi memang saya nggak lihat, Pak. Sempat lewat lapangan, sih. Ekskul lagi jalan, tapi Lili-nya nggak kelihatan.
+
+;(menangis bombay)
+Arya: Oalah, cemas bapaknya ini, Cahya! Kok bisa masih ada kegiatan toh, biasanya Lili sudah pulang jam segini.
+Cahya: Maklum, Pak. Soalnya mau ada lomba bulan depan, sibuk.
+
+;(murung)
+Arya: Ya, Bapak tahu, tapi Lili bukan peserta lombanya.
+Cahya: Atau mungkin waktu saya lewat lapangan, anaknya lagi di toilet, palingan?
+
+;(berpikir)
+Arya: Hmm, iya mungkin. Ya, sudah.
+Cahya: Permisi dulu, Pak.
+
+Aku pun naik menuju kamar kos di lantai 2.
+Sepanjang yang kutahu, pemilik kos ini hanya tinggal berdua sama anak perempuannya yang seumuran denganku.
+Waktu pertama kali aku mendatangi kos ini, Pak Arya menyambutku dengan senang hati walau waktu itu aku cuma survei lokasi.
+
+;10. EXT. DEPAN KOS - DAY - PAST
+@hidePrinter
+@back ApartmentFrontPast.CircleReveal time:2
+
+Arya: Jadi, kamu juga mau masuk SMA? Bagus dong, anak saya juga sama!
+Cahya: Oh, ya?
+Arya: Loh, betul itu! Mau kenalan?
+Cahya: Boleh-boleh saja, Pak, kalau nggak keberatan.
+Arya: Sebentar saya panggilkan, ya.
+
+Pak Arya masuk ke dalam. Terdengar sayup-sayup suara bapak dan anak tersebut dari dalam. Sepertinya dari ruang tengah.
+
+Arya: Lili ...! Ini ada anak sebayamu yang mau ngekos di sini, Nak! Sama-sama mau masuk SMA.
+
+"Lili"? Jadi, anaknya perempuan, toh.
+
+
+@char Lili.LiliDasterSenyum
+Lili: Perempuan apa laki-laki, Pak?
+Arya: Waduuuh, kamu ini gimana, toh, Nak. Ya, laki-laki, lah! Masak, kamu lupa kalo ini kosan laki?
+@char Lili.LiliDasterKaget
+Lili: E-eh ...!? A-aku nggak dulu, deh!
+@hideChars
+Cahya: Mungkin anaknya belum dandan, ya, Bu. Hehe.
+
+Ibuku dari tadi cuma diam saja, jadi aku coba ajak bercanda sedikit.
+
+@set IbuCahya="Ibu Cahya"
+IbuCahya: ... Yah.
+IbuCahya: Ingat, Cahya. Kamu pindah ke daerah sini buat sekolah, bukan main-main. Apalagi buat mengincar anaknya bapak kos yang tadi.
+Cahya: Hah!? S-siapa juga yang mau ngincar?
+IbuCahya: Pahami kehidupan orang-orang kecil di sekitarmu lebih baik.
+Cahya: ....
+
+Ah, Ibu nggak seru.
+Yang dipikirkan itu-itu melulu. Ketemu orang-orang besar, lah, orang-orang kecil, lah.
+Aslinya, sih, niatku sekolah jauh dari rumah ini biar lebih mandiri. Nggak bergantung sama hidup sama Ayah dan Ibu terus-terusan. 
+Tapi, yah, terserah deh kalau mau diartikan Ibu sebagai "Cahya perlu lebih memahami rakyat kecil". Setidaknya aku dibolehkan sekolah jauh dari rumah.
+Untung saja, sebelum suasana makin garing, Pak Arya kembali.
+
+;(Tersenyum masam)
+Arya: Wah, maaf, kayaknya malu dia!
+Cahya: Haha, nggak apa-apa Pak.
+
+Kami pun melanjutkan survei di kos tersebut.
+
+;11. INT. KAMAR Cahya - AFTERNOON
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back BedroomBoy.LineReveal time:1.5
+
+Untungnya, sejak saat itu aku langsung cocok dengan suasana kos di sini. 
+Kamarnya memang nggak seluas kamarku, sudah begitu kamar mandinya juga di luar kamar, pula. Walau begitu, ventilasinya cukup besar ditambah pemandangan jalan terlihat dari sini.
+Selama enam bulan ini, aku cukup betah tinggal di kos ini. Uang kos kiriman dari orangtuaku juga rutin ditransfer. 
+Orang-orang di sini seperti Pak Arya dan tetangga-tetangga kos juga cukup baik, atau setidaknya nggak ada yang benar-benar menggangguku, sih.
+
+Cahya: Loh, iya juga. Komik yang habis aku beli kemaren-kemaren masih belum dibuka.
+
+Aku merogoh komik yang masih disampul plastik dari kardus buku kecil di bawah kasur.
+Judul komik ini adalah "Mint-on!". Sesuai judul, gambar kovernya adalah cowok yang lagi melempar kok badminton ... tapi, koknya pakai daun mint ketimbang bulu ayam.
+Menurut sinopsis di belakang sampul, komik ini menceritakan tentang seorang cowok bernama Sora yang bercita-cita jadi pemain badminton. Sayangnya, ayahnya kurang setuju karena menurutnya Sora lebih jago menjadi barista untuk meneruskan usaha kafe milik keluarganya.
+Dari gaya gambar dan nama-nama di sinopsis ini, jelas saja kalau ini buku terjemahan dari Jepang.
+Waktu itu, aku iseng memborong 4 volume komik ini waktu ada obral online. Lumayan, diskon 20 persen. Sayangnya, volume-volume berikutnya sudah habis. 
+Tapi, yah, nggak apa-apa deh, coba baca 4 volume dulu. Kalau memang beneran bagus dan bikin penasaran, tinggal beli volume berikutnya kapan-kapan.
+Nggak enak kalau bukunya cuma dipandangi, langsung kubuka sampul volume 1.
+
+;FADE TO BLACK
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back BedroomBoy.LineReveal time:1.5
+
+;12. INT. KAMAR Cahya - EVENING
+
+Entah sudah berapa lama kuhabiskan waktu membaca buku ini.
+
+Cahya: ....
+Cahya: Oh ...! Jadi, ayahnya ini bisa main juga, toh!
+
+Dalam volume 2, Sora duel badminton dengan ayahnya, Hiro, untuk membuktikan kalau dirinya bisa menjadi atlet badminton. Hal ini dibuktikan dari latihan kerasnya di volume 1 bersama kawan-kawan yang satu SMK jurusan tata boga dengannya.
+Sayangnya, dia kalah jago dari ayahnya yang ternyata memiliki jurus-jurus pamungkas saat main badminton.
+Sambil membalas umpan, ayahnya berseru, "Jurus S-mash-ed Potato!" yang membuat koknya terlihat seperti kentang tumbuk gepeng.
+Sora tidak kalah seru, karena dia punya jurus andalannya: "Jurus Minty Breeze! " di mana smash-nya sangat kencang, menghembuskan angin sampai-sampai rok panjang milik Yuri temannya itu terangkat, eh, maksudnya, angin yang menyejukkan suasana seperti daun mint.
+Pada akhirnya, Sora kalah. Sayang sekali. Mari doakan semoga di volume berikutnya dia bisa lebih jago lagi.
+
+;(SFX. Perut keroncongan)
+
+Perutku keroncongan.
+Kulihat jam weker sudah menunjukkan setengah 8. Pantesan. Ini, kan, sudah waktunya makan malam. 
+
+Cahya: Alaa, lagi seru-serunya ini!
+
+Padahal, aku hampir menamatkan volume 3.
+Aku segera bangkit dari kasur dan keluar menuju dapur kos.
+
+;13. INT. DAPUR KOS - EVENING
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back Kitchen.LineReveal time:1.5
+
+Cahya: Aduh, mana ya telurnya?
+
+Aku yakin kemarin masih ada sebiji telur di dalamnya, plus ditempel kertas bertuliskan "YANG NYOLONG BINTITAN! - Cahya".
+Dengan hati-hati, kuambil makanan punya penghuni kos yang lain, lalu menaruhnya di lantai. 
+Barangkali, telurku ada di sela-selanya kulkas?
+Mungkin nggak ada, tapi yah, kalau dicoba pasti tahu, lah.
+
+@set Dito="???"
+???: Ngapain, Cah?
+
+Suara yang cukup familiar ini terdengar dari belakang.
+Itu Mas Dito, tetangga kosku yang baru pulang kuliah.
+
+Cahya: Mas Dito, aku lagi nyari-nyari telurku yang sebiji, kok, nggak ketemu, ya?
+
+@set Dito="Dito"
+;(Nyengir)
+Dito: Lah, itu, ada dua nempel di badanmu.
+Cahya: Aduh, Mas, aku serius! Itu telur buat menentukan hidup matinya seorang Cahya Mentari malam ini!
+Dito: Telor yang ada tulisan 'nyolong bintitan' gitu, ya? Tadi pagi habis kamu berangkat, aku makan soalnya laper banget, he-he~, sori~!
+
+AAAAAAHHH, TELURKU!
+Telurku, yang jauh-jauh aku beli dari pasar, larut di dalam lambung Mas-mas cengengesan yang satu ini!
+Mana mukanya santai banget, lagi! (Ya, kayaknya sudah settingan mukanya begitu dari lahir, sih.)
+
+;(SFX. Tepuk bahu)
+
+Aku langsung mencengkeram bahu Mas Dito sambil berlinangan air mata bombay.
+
+;(Kaget)
+Dito: ...!
+Cahya: Ya ampun, Mas! Aku butuh itu buat tenaga ritual malam biar kuat sampe subuh! ... Ya, walo belum subuh aku udah ketiduran, sih.
+
+Kutatap kedua matanya lekat-lekat.
+
+;(font besar)
+Cahya: Konsentrasi, tatap mata Cahya!
+;(font besar)
+Cahya: Bintitan ..., bintitan ..., BINTITAN!!
+;(Takut)
+Dito: Eh, so-sori! Ampun, Cahya! Ampun! Nanti aku ganti pakai traktiran malam ini di Pak Aji, ya! Tapi kamu lepas hipnotisnya, ya!
+Cahya: Huh.
+
+Sambil melengos, kulepaskan cengkeraman tanganku dari bahunya.
+
+Dito: Ampun, Cahya. Dari tadi pagi aku belum dapat kiriman uang dari rumah, mana sisa beras sama lauk habis, lagi.
+Cahya: Tauk, ah.
+Dito: Tapi, berkat telor itu, aku jadi punya tenaga biar bisa ke ATM siang-siang buat ambil uang, deh!
+Cahya: Iya, iya! Nanti aku pesan yang paling mahal sekalian dari warungnya Pak Aji. Paket lengkap nasi bebek plus teh matcha topping whipped cream plus es krim cokelat bertabur choco chip.
+Dito: Heh? Emangnya ada yang kayak gituan di warung?
+Cahya: Ada, lah! Ada di bagian pojok kanan bawah menu, perhatiin bagian itu nanti, Mas!
+Dito: I-iya deh ..., hiks.
+
+;14. EXT. LANGIT - NIGHT
+@hidePrinter
+@back Night.LineReveal time:1.5
+
+Kami berdua pun makan di warung.
+Lumayan, perbaikan gizi.
+Walaupun Mas Dito ini memang orangnya kadang semaunya sendiri dan bikin jengkel orang-orang di sekitar, aku nggak pernah benci orangnya. 
+Habisnya, dia orang yang bisa diandalkan, sih. Kalau dapat uang kiriman, dia biasa mentraktirku di Warung Pak Aji.
+Tentu saja aku biasanya sungkan, makanya cuma pesan yang murah-murah saja. Cuma, untuk kali ini, aku kelewat kesal sama kelancangannya. Jadilah aku pesan yang paling mahal.
+
+;15. EXT. KOS - NIGHT
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back ApartmentFront.LineReveal time:1.5
+Cahya: Makasih traktirannya, Mas~!
+
+Sepulang dari warung, aku berjalan riang masuk ke kos.
+
+Dito: Huhuhu ..., iya ....
+
+Mas Dito menangisi isi dompetnya yang tebalnya tinggal setengah dari sebelum ke warung. 
+Tadinya dompetnya buncit, tapi sekarang setengah buncitnya dipakai buat mengisi perutku ini. 
+Kayaknya, tadi aku berlebihan, ya? Hehe.
+
+;16. INT. RUANG TENGAH - NIGHT
+@hidePrinter
+@back LivingRoom.LineReveal time:1.5
+
+Sebelum menaiki tangga, aku sempat melirik ke ruang tengah rumah pemilik kos.
+Tampak Pak Arya duduk di sofa, asyik menonton TV.
+
+Arya: Li, lihat ini lho, ada pertandingan bulutangkis!
+@char Lili.LiliDasterSenyum
+Lili: Eh, mana, Pak?
+@hideChars
+
+Oh, ternyata Lili sudah pulang. Waktu tadi mau ke warung, aku nggak sadar kalau ada sepatunya di depan rumah, sih.
+Enak jadi Lili, bisa nonton TV sama orangtuanya sendiri. Tontonannya juga sama. Nggak ada drama kayak rebutan channel.
+
+Arya: Waduuuh! Masih nol!
+@char Lili.LiliDasterTertawa
+Lili: Yey, 1 poin buat Jepang!
+Arya: LOH, KOK GAK CINTA INDONESIA KAMU!?
+;(Serius)
+@char Lili.LiliDasterSerius
+Lili: Maafkan aku, Pak. Aku ini mendukung Indonesia dan juga Jepang soalnya sama-sama jago bulutangkis.
+
+@char Lili.LiliDasterTertawa
+Lili: Tapi, Kalo dua-duanya tanding, aku jagoin Jepang! Mau lawan siapa aja, PASTI JEPANG HARUS MENANG!
+@hideChars
+
+;(menangis bombay)
+Arya: HUWAAAAAA!! Anakku jadi antek-antek Jepang!
+
+Dilihat-lihat, Lili yang sekarang sama bapaknya ini beda, ya, daripada yang biasanya papasan sama aku di depan kos atau di sekolah. 
+Kontras dari sifat pendiam dan pemalunya, sekarang ini dia jadi semangat banget menonton TV.
+Mungkin karena dia nyaman sama anggota keluarganya.
+
+Cahya: .......
+
+Coba kalau di rumahku juga bisa kayak gitu juga.
+
+Dito: ... Cah? Jalan, dong.
+
+Cahya: Hm? Ah, sori ngelamun.
+
+Aku pun lanjut menaiki tangga.
+
+;17. EXT. LANGIT - DAY
+@hidePrinter
+@back DayTransition.CircleReveal time:2
+@wait 2
+
+;18. INT. KAMAR Cahya - DAY
+
+@back BedroomBoy.CircleReveal time:1.5
+Cahya: Huam ....
+
+Sambil malas-malasan, aku mengambil handuk dan perlengkapan mandi.
+Akhirnya, aku menamatkan keempat volume komik "Mint-on!" dalam semalam.
+Aku terlalu penasaran sama kelanjutannya, jadi kucoba searching kelanjutannya di internet.
+Eh, belum ada halaman 1 volume 5, kuota internetku sudah habis.
+Mau keluar beli pulsa pun nggak bisa, soanya sudah jam 11 malam. Nggak boleh keluar kos.
+Ya sudah, habis pulang sekolah aku bakal beli pulsa.
+
+Cahya: Tapi seriusan, gimana nasib si Sora itu di volume 4 ....
+
+;19. INT. RUANG TENGAH KOS - DAY
+@hidePrinter
+@back LivingRoom.LineReveal time:1.5
+
+Gimana aku nggak penasaran? Ada orang misterius yang, tanpa sepengetahuan Sora, mematahkan raketnya sebelum dia bertanding melawan Yuri, teman SMK-nya sendiri yang jago membuat kue.
+Sebenarnya, itu cuma latihan biasa, sih. Tapi, kenapa ada yang tega begitu ke Sora? Padahal, besok seharusnya Sora pergi bertanding antar-SMK. 
+Kira-kira, siapa orang yang tega patahin raketnya Sora? Terus, apa Sora perbaiki raket kesayangannya itu, atau pinjam punya teman?
+
+Cahya: Gila, penasaran banget!
+
+Dito: Hm? Apanya yang gila?
+
+Sadar-sadar, ternyata Mas Dito sudah mendahuluiku di antrean kamar mandi.
+
+Cahya: Eh, Mas, kok nyerobot, sih!
+Dito: Nyerobot gimana? Dari tadi aku di sini, kok!
+Cahya: Lho, masak sih?
+
+Duh, malu.
+
+Dito: Iya, terus kamunya dateng-dateng sambil mikir. Pagi-pagi, kok, malah udah mikir keras gitu?
+Cahya: Haah ....
+Cahya: Aku mikirin cowok semaleman.
+Dito: HAH!?
+Dito: J-jadi, Cahya, a-apa kamu sudah melenceng?
+Cahya: Kenapa? Emangnya salah? Ini udah era modern, apa salahnya cowok mikirin kesulitan cowok lain, yaitu TEMENNYA, sampe sulit tidur? 
+Cahya: Itu adalah persohiban antarcowok! Jangan remehkan persohibanku dengan dia, ya!
+
+Benar, aku terlalu menghayati komik itu sampai-sampai menganggap Sora adalah temanku sendiri! Aku mencemaskan nasib Sora semalaman! SOOORAAAAAAA!!!
+
+Dito: ....
+Dito: Cih, kirain. Nggak seru, ah.
+Cahya: Seenggaknya bilang 'Sori Cahya, salah paham ternyata,' kek ....
+
+;(SFX. Pintu buka)
+
+Dito: Ah, itu udah kosong. Duluan, ya.
+Cahya: ....
+
+Sambil lanjut mengantre mandi, aku pun kembali memikirkan buku bacaan apa lagi yang sebaiknya dibaca.
+
+;20. INT. KELAS - DAY
+
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back ClassRoom.LineReveal time:1.5
+
+Waktu aku memasuki kelas, kulihat beberapa teman sekelasku asyik ngerumpi.
+Dilihat dari mayoritas perkumpulannya yang cewek-cewek, jelas mereka lagi menggosip.
+
+@set Elis="Elis"
+@set Lisa="Lisa"
+@set Seli="Seli"
+Elis: Eh, jadi gitu, ya?
+Lisa: Aku juga nggak nyangka, kok bisa cewek secakep Riana gitu.
+Seli: Hah, Riana? Anak kelas X MIPA-2 itu, bukan, sih? Yang jadi model majalah itu?
+Lisa: Iya, ih! Yang bulan lalu masuk majalah 'Beauty' edisi kue-kue itu. Padahal, masih ada lagi tau, cowok yang lebih ganteng buat dia.
+
+Ah, sudah jelas pasti geng "Trio LIS" yang paling heboh kalau urusan gosip-gosipan.
+
+@set Ahmad="Ahmad"
+@set Benny="Benny"
+@set Daniel="Daniel"
+Ahmad: HAH, APA? Riana PUNYA COWOK, YA?!
+
+Sebenarnya, aku nggak terlalu minat sama gosip cewek-cewek, sih, tapi karena yang cowok pada ikut-ikutan, aku ikut nimbrung juga, deh!
+
+Cahya: Pagi! Ngomongin apa, nih?
+SEMUA: ......!
+Cahya: ...?
+
+Aku heran. Dari raut kaget mereka, tampak jelas kalau mereka dari tadi membicarakan aku.
+Tapi, kenapa harus aku?
+Perasaan, tadi mereka membicarakan Riana, deh?
+
+Cahya: Lho? Anu, kok, kalian malah lihat aku pake tampang kaget begitu? Aku masih hidup, kok! Ini badan aslinya Cahya Mentari, lho! Coba pegang, pegang!
+
+Aku berusaha mencairkan suasana, tapi antara muka-muka kaget mereka, ada juga yang menatapku dengan perasaan kesal. Ada juga yang jijik. Lho, ada apa ini?
+Beberapa dari mereka berjalan mendekatiku.
+
+Ahmad: Eh, Cahya. Kamu lagi jalan bareng Riana, ya?
+Elis: Kemaren, kamu jalan berdua sama Riana di koridor!
+Cahya: Hah? Kalo 'jalan bareng' yang maksudnya jalan sambil ngobrol biasa, sih, iya. Kalo pacaran, ya, nggak!
+Benny: Tapi, kemaren kalian nungguin angkot berdua!
+Cahya: Nggak juga, sebenernya aku pulang jalan kaki, sih.
+Daniel: Malah, angkotnya rela mundur biar Riana bisa keluar angkot dan menubruk Cahya! Kyaa~!
+
+;(font besar)
+Cahya: NGAWUR!! SITU KEBANYAKAN NONTON ROMCOM, YA!?
+
+Tanpa peduli perkataanku tadi, mereka malah bisik-bisik.
+Haduh, dari kemarin aku sudah tahu kalau digosipin adalah hal yang nggak terelakkan.
+Riana memang primadona di angkatanku. Walau menurutku tingginya nggak memungkinkan buat jadi pramugari, sih, penampilannya sudah cukup mencolok di kalangan cewek dan cowok.
+Tapi, apakah jalan bareng sama dia, cuma buat ngobrol biasa aja, adalah hal yang nggak wajar? Emangnya, pantas dijadikan gosip? Perasaan, dia cuma manusia biasa, deh, bukan alien!
+Nggak tahan dengan omongan mereka, aku maju ke depan papan tulis.
+
+;(font besar)
+Cahya: PERHATIAN, SAUDARA-SAUDARI X IPS 1!!!
+
+SEMUA: ...!
+
+Bagus, bisik-bisik mereka terhenti! Semuanya menatap padaku. Ini berkat buku tipis LKS yang kugulung jadi bentuk megafon.
+
+Cahya: Saya, Cahya Mentari, mengklarifikasi bahwa hubungan saya  dengan Riana-gak-tau-nama-lengkapnya-siapa hanyalah TEMAN SATU EKSKUL SAJA! Tidak kurang, tidak lebih!!
+Cahya: Kami tidak punya hubungan spesial, seperti pacaran apalagi suami-istri. Saya juga tidak naksir Riana-nama-lengkapnya-siapa-entah!
+Cahya: Dengan ini, pernyataan ini dibuat dengan amat SANGAT jujur. Terima kasih.
+SEMUA: .......
+Elis: Jadi ... kamu, waktu itu cuma ngobrol biasa aja?
+Cahya: Ya, cuma bincang-bincang biasa habis ekskul.
+Elis: Kayaknya, Cahya bukan pacarnya Riana, deh.
+Lisa: Iya, ih, mana ada orang yang nggak kenal nama lengkap pacarnya sendiri?
+Cahya: Bukan 'kayaknya', EMANG BUKAN!
+
+Aku memang nggak terlalu peduli nama lengkap orang lain, sih. Kecuali, kalau memang benar-benar teman dekat atau teman sekelas yang urutan absensinya di atas dan di bawahku saja.
+Yah, mau sesering apa Riana masuk majalah pun, aku nggak perlu repot ingat nama lengkapnya.
+
+Cahya: Dan kalau kalian masih nggak percaya, tanya aja ke Riananya sendiri!
+
+;(SFX. Bel sekolah)
+Baru selesai aku bicara, tahu-tahu bel masuk sudah berbunyi.
+
+Nurul: Baik anak-anak, segera masuk!
+
+SEMUA: Baik, Bu ....
+
+Aku pun langsung bergegas duduk ke bangku sendiri.
+Haah, parah. 
+Pagi-pagi sudah digosipin. Semoga aja, nggak sampai terlalu menyebar.
+Yah, kalaupun menyebar, sih, paling-paling cuma bertahan beberapa minggu karena nggak ada bukti jelasnya. 
+Sama kayak desas-desus waktu awal semester kalau ada anak pejabat yang sekolah di sini. Itu juga cuma bertahan sebentar soalnya aku bertingkah biasa saja seperti yang lain. Nggak ada bukti jelasnya, kan?
+Kalau sudah begini, aku tinggal nggak perlu dekat-dekat apalagi ngobrol sama Riana dalam 2-3 minggu, beres.
+
+;21. EXT. LANGIT - DAY
+
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back Sunny.LineReveal time:1.5
+;(SFX. Bel sekolah)
+
+Bel istirahat pertama berbunyi nyaring seolah berseru, "Woy Cahya, cepetan beli nasi di kantin!" padaku yang lagi melamun di tengah-tengah pelajaran.
+
+;22. INT. KELAS - DAY
+
+@hidePrinter
+@back BedroomBoy.LineReveal time:1.5
+
+Cahya: Ah, lapeeer.
+
+Gara-gara tadi pagi cuma makan selembar roti tawar, sih. Itu pun roti jatah terakhir.
+Bertambah lagi daftar belanja buat minggu ini. 
+Harusnya, upah kerja sampinganku di rental PS masih ada sisa 10 ribu buat beli beberapa sayuran.
+
+Ahmad: Ya, Cahya. Sori yang tadi, kami udah ngomongin yang nggak-nggak.
+
+Benny dan Daniel yang di belakang Ahmad juga ikut minta maaf.
+
+Benny: Iya, sebenernya sih aku tadi nggak mau percaya, tapi yah, jadi kebawa.
+Daniel: Maaf ya, aku juga ngarang soalnya kebanyakan nonton anime romcom seperti katamu tadi.
+Cahya: Nggak masalah. Cabut ke kantin, ayok. Udah laper.
+
+Kami berempat pun cabut ke kantin seperti nggak ada kejadian apa-apa tadi.
+
+;23. EXT. KORIDOR KELAS - DAY
+;(serius)
+;Lili: ....
+@hidePrinter
+@back SchoolHallway.LineReveal time:1.5
+
+Waktu menyusuri koridor di antara keramaian anak-anak kelas lain, aku berpapasan dengan Lili.
+Tumben, soalnya aku jarang lihat dia di luar kelas waktu istirahat. Padahal, dia juga di jurusan IPS.
+Mungkin ini cuma perasaanku saja, soalnya aku sendiri nggak terlalu kenal dia, sih, walaupun kami tinggal di bangunan yang sama.
+
+;(pergi)
+;Lili: 
+
+Tapi yang lebih aneh lagi, apa tatapan tajamnya tadi itu ke ... arahku?
+Ah, jangan ge-er, Cahya. Orang yang kalau kusapa banyak kaburnya itu paling-paling lagi melihat temannya yang kebetulan di belakangku. 
+
+;24. INT. KANTIN - DAY
+@hidePrinter
+@back Cafetaria.LineReveal time:1.5
+
+Ahmad: Dan, dari dulu makannya bakso mulu, nggak bosen-bosen?
+Daniel: Nggak, soalnya orang udah suka, ya, suka!
+Benny: Entar lama-lama jadi mekar kayak gorengan kembang, loh!
+Daniel: Kirain bilang 'lama-lama jadi bulet kayak pentol'.
+Benny: Badanmu udah bulet, tinggal tunggu mekarnya aja, tuh!
+
+Aku berjalan mendekati bangku panjang tempat mereka bertiga duduk.
+
+Cahya: Ah, akhirnya dapet juga! Tadi antreannya rame banget!
+Benny: Kalo Cahya, sih, lama-lama jadi bihun, klewer-klewer! Jiahahaha!
+
+Ahmad dan Daniel ikut ketawa.
+
+Cahya: Hah, jadi bihun? Perasaan cuma nasi sama telur dadar gini, nggak ada bihun-bihunnya?
+Benny: Bukan itu! Dari minggu kemaren Cahya ini makannya ..., ya, gitu-gitu aja. Nasi sama lauk yang, kalo nggak telor, tempe, sosis.
+Cahya: Hemat, sih.
+
+Cuma itu yang kujawab.
+Nggak banyak orang yang tahu kalau aku ngekos, tapi aku nggak benar-benar merahasiakannya. Kalau misal ada orang yang tanya aku tinggal di mana, lalu kujawab daerah kos tempatku sekarang tinggal, mereka langsung puas, nggak bertanya daerah tempat asalku tinggal atau alasan kenapa sekolah jauh-jauh sampai sini.
+
+Ahmad: Lagi nabung buat beli sesuatu?
+Cahya: Yaaa, bisa dibilang gitu, sih.
+Daniel: Oh, jadi keinget!
+Daniel: Duuuh, besok lusa bakal terbit komik 'Denil Bebek' edisi premium! Duit celenganku belum cukup, kayaknya aku juga harus hemat sebelum bukunya ludes ....
+Benny: Kalo gitu, baksonya siniin!
+Daniel: Wooy!
+
+Komik, ya. Jadi teringat "Mint-on!" yang kubaca semalam. 
+Coba aku tanya Daniel, dia kan suka baca komik dan nonton anime.
+
+Cahya: Dan, kamu baca 'Mint-on!'?
+Daniel: Ah, kayak pernah dengar. Tapi aku belum baca.
+Daniel: Lagian, udah lama itu komik, kayaknya tahun ... 2000-an? 
+Cahya: Hah, selawas itu!?
+
+Pantas saja diobral. 
+
+Daniel: Ya, tapi katanya sempat hiatus beberapa tahun, terus tamatnya baru tahun kemarin. Animenya baru-baru ini selesai tayang, makanya aku sempat dengar.
+Daniel: Kenapa emangnya? Bagus, ya?
+Cahya: Bagus, kok! Amat sangat rekomen. Tapi, aku baru baca 4 volume, sih.
+Daniel: ... Kayaknya nggak dulu, deh. Mending, ngelanjutin romcom 'Aku dan Tetangga Manisku'. Genre fantasi yang melebihi fantasi.
+Cahya: Ya, udah ....
+
+Haah, payah. Kayaknya nggak ada teman yang bisa diajak ngobrolin "Mint-on!", deh. Apalagi Ahmad dan Benny yang lebih suka main sepakbola.
+
+;25. EXT. JALAN KECIL - AFTERNOON
+
+@hidePrinter
+@back Black.LineReveal time:1.5
+@back Street.LineReveal time:1.5
+
+Wilayah ini memang ramai kos-kosan, tapi jalanannya sepi. 
+Jarang ada anak-anak yang bermain di perumahan ini.
+Paling-paling, orang-orang yang berlalu-lalang di sekitar sini adalah mahasiswa-mahasiswi yang pulang-pergi dari kos.
+SMA tempatku bersekolah memang cukup dekat dengan kampus negeri yang jadi incaran banyak orang.
+Mungkin mahasiswa seperti Mas Dito lebih banyak yang memilih kelas siang atau sore, makanya sekarang ini hampir nggak kelihatan orang lain yang berjalan di sekitar sini.
+Waktu pulang lebih awal supaya bisa lekas mengerjakan tugas, aku mampir ke warung untuk membeli pulsa.
+Sesudah memastikan pulsanya masuk ke hape, aku membayar dengan uang pas.
+
+Cahya: Makasih, Pak!
+
+Sesudah itu, aku melanjutkan perjalanan pulang dengan semangat.
+
+;(SFX. Langkah cepat)
+
+Aku jadi nggak sabar untuk sampai kos buat mengisi data internet lalu lanjut baca "Mint-on!" ... 
+... Eh, jangan! Aku harus ngerjain tugas! 
+... Tapi males, baca "Mint-on!" dulu, deh ....
+
+;(SFX. Lari)
+
+Cahya: ...?
+
+Rasanya ada yang aneh.
+Kukira cuma aku yang sekarang menyusuri jalan, tapi kenapa sekarang aku mendengar suara langkah kaki yang lebih cepat dari belakangku, ya? Apa ada orang yang mengejarku?
+Aku menghentikan langkahku, barangkali dia mau menghampiriku.
+Senyap.
+Suara derap lari di belakangku juga ikut berhenti.
+Aku menoleh ke belakang.
+... Nggak ada siapa-siapa?
+Aneh.
+Apa orang di belakangku lagi sembunyi? Tapi, ngapain sembunyi?
+Ah, sudahlah. Lanjut jalan saja, tapi lebih cepat.
+Aku jalan lebih cepat, dia juga jalan lebih cepat.
+Aku jalan lebih lambat, dia juga jalan lebih lambat.
+Ini jelas, aku pasti diikuti!
+"TOLOOONG, ADA PENGUNTIT!!"
+Maunya bilang begitu, tapi kutahan mulutku.
+Maksudku, apakah aku seganteng itu buat dikuntit orang?
+Atau jangan-jangan, suruhan lawan politiknya Ayah?
+Jadi, untuk memastikan, aku berhenti dan menoleh ke belakang di saat yang bersamaan.
+
+;(kaget)
+@char Lili.LiliSeragamKaget
+???: !
+@hideChars
+
+Ternyata, yang mengikutiku adalah cewek berambut lurus dengan hiasan bando. Dari gerakan badannya yang terlonjak, tampaknya dia tidak sempat sembunyi di balik mobil tetangga.
+
+Cahya: !?
+
+Lho, itu kan, Lili?
+Lili mengikutiku?
+Yang mengikuti aku itu Lili?
+Lili?
+Mengikuti?
+Aku?
+
+@char Lili.LiliSeragamMalu1
+;(menunduk malu)
+Lili: .......
+@hideChars
+
+Hah, kenapa itu?
+Dari raut mukanya, dia seperti mau bilang sesuatu padaku, tapi ditahan-tahan.
+Masih nggak percaya kalau misal Lili mengagumi kegantenganku, atau misal Lili adalah suruhan lawan politik Ayah, aku berusaha memanggilnya duluan dengan ramah.
+
+Cahya: Kenapa, Lili?
+
+@char Lili.LiliSeragamMalu1
+;(ket. font kecil)
+Lili: A-anu ....
+Lili: Uuh .......
+
+Lili: MAAF, TUNGGU SEBENTAR!
+@hideChars
+;(SFX. Lari)
+
+Lili malah lari melewatiku, lalu masuk ke dalam kos yang cuma satu blok dari tempatku berdiri.
+
+Cahya: ...?
+
+Aku melanjutkan jalanku ke kos. Barangkali dia lebih nyaman bicara di situ, jadi aku ikuti saja.
+Eh, dengan secepat kilat, dia kembali dengan baju yang sudah diganti.
+Sebelumnya dia pakai seragam dengan luaran kardigan, tapi sekarang jadi kaos dengan jaket?
+Ditambah lagi, rambutnya dikuncir?
+
+@char Lili.LiliDasterMalu1
+Lili: Fuuh ..., haah ....
+
+;(serius)
+@char Lili.LiliDasterSerius
+Lili: ... Aku mau tanya, apa kamu yang namanya Cahya?
+@hideChars
+
+Wah, lancar banget ngomongnya! Kayak orang lain aja! Tunggu, apa Lili aslinya ada dua orang!? 
+Ah, ketimbang itu, aku harus jawab pertanyaan dia yang sepele ini!
+
+Cahya: Iya, kenapa?
+
+@char Lili.LiliDasterMalu1
+Lili: Ng ....
+
+Lili mengeluarkan hapenya dari saku.
+
+Lili: Kemarin aku lihat kamu jalan berdua sama Riana, apa kalian pacaran?
+Cahya: HAH!?
+
+@hideChars
+Aku kaget bukan gara-gara gosip receh tadi pagi itu, melainkan gara-gara foto yang ditunjukkan Lili.
+Di foto yang dia tunjukkan tersebut, tampak zoom-out dari belakang dan cukup jauh aku dan Riana lagi bersebelahan ngobrol di koridor dekat lapangan.
+Apa foto itu diambil dari lapangan?
+Tunggu, bukannya anak-anak yang di lapangan waktu itu adalah anak-anak ... ekskul bulutangkis?
+Terus juga, Lili anggota ekskul bulutangkis.
+Waktu aku sempat lihat-lihat kegiatan mereka, seingatku Lili nggak ada di situ.
+Apa jangan-jangan ...?
+
+(Bersambung)
+
+@stop

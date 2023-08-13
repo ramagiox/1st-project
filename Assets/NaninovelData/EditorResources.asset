@@ -166,3 +166,119 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+  - Id: Characters/8f5ee2e0-8f4e-41e2-9499-b3315be5da1b
+    Resources:
+    - name: LiliSeragamKaget
+      pathPrefix: Characters/Lili
+      guid: b63e8d46b5d6b59448c611b9a318dcf4
+    - name: LiliSeragamMalu1
+      pathPrefix: Characters/Lili
+      guid: 7117cb81ac003664aa32c3abec27756f
+    - name: LiliSeragamMalu2
+      pathPrefix: Characters/Lili
+      guid: dfcf4fecaa98e8c4098c402e0dab99b0
+    - name: LiliSeragamMarah1
+      pathPrefix: Characters/Lili
+      guid: 6321e45a6d4cd72438333d1867d70610
+    - name: LiliSeragamMarah2
+      pathPrefix: Characters/Lili
+      guid: 56c7474e4c6253f46882553fd77505bc
+    - name: LiliSeragamNgidol
+      pathPrefix: Characters/Lili
+      guid: 445100a627c929e4e852c3b92e5e47a1
+    - name: LiliSeragamSedih
+      pathPrefix: Characters/Lili
+      guid: 296bf29450c17ae4a93098325d3e7cd8
+    - name: LiliSeragamSenyum
+      pathPrefix: Characters/Lili
+      guid: 2f6854339a645274c9cf2418487bc288
+    - name: LiliSeragamSerius
+      pathPrefix: Characters/Lili
+      guid: 054438daba147c148aa38360941249cc
+    - name: LiliSeragamTertawa
+      pathPrefix: Characters/Lili
+      guid: 7a8184cd203bc3a4695b239f4bf52afd
+    - name: LiliDasterKaget
+      pathPrefix: Characters/Lili
+      guid: 77531287750121c4faf368cd2edb4f18
+    - name: LiliDasterMalu1
+      pathPrefix: Characters/Lili
+      guid: cbbe7ca9c6cc5f94688066854a050f9a
+    - name: LiliDasterMalu2
+      pathPrefix: Characters/Lili
+      guid: 7b16e7fa2d9364744a7a75090df223db
+    - name: LiliDasterMarah1
+      pathPrefix: Characters/Lili
+      guid: ae468f63a29736d4487f32faa5581fb6
+    - name: LiliDasterMarah2
+      pathPrefix: Characters/Lili
+      guid: 98bf6d572af1e044cbaa0e26c940cdce
+    - name: LiliDasterNgidol
+      pathPrefix: Characters/Lili
+      guid: e45aa06d76425db40b8b672ba37fb7a3
+    - name: LiliDasterSedih
+      pathPrefix: Characters/Lili
+      guid: 53cca919e3931ae4fbd072640841bc61
+    - name: LiliDasterSenyum
+      pathPrefix: Characters/Lili
+      guid: dd2f926a4d07db2498a515d794d48c98
+    - name: LiliDasterSerius
+      pathPrefix: Characters/Lili
+      guid: 3bc09f31ba3f3594bafdd395698b2b4e
+    - name: LiliDasterTertawa
+      pathPrefix: Characters/Lili
+      guid: 94c30743a48d527449f49b455a395e94
+  - Id: Characters/c58504c0-b386-4e1f-be38-a6369a308105
+    Resources: []
+  - Id: Scripts
+    Resources:
+    - name: Chapter-1
+      pathPrefix: Scripts
+      guid: bd92771fcdec82645b391c0624eb9bb1
+  - Id: Backgrounds/37a6fd56-071d-4eaa-8612-0a069ae900c9
+    Resources:
+    - name: Sunny
+      pathPrefix: Backgrounds/MainBackground
+      guid: f35311eeb66ba5f499f056503dedc580
+    - name: SchoolHallway
+      pathPrefix: Backgrounds/MainBackground
+      guid: a77fd330bfd6cbf4bbd279693fbbd9c3
+    - name: SchoolGates
+      pathPrefix: Backgrounds/MainBackground
+      guid: d8b02c07b08f45d45b8ea4994573bb02
+    - name: Library
+      pathPrefix: Backgrounds/MainBackground
+      guid: 70eb6d434973cbf49b07694d1d32598d
+    - name: Black
+      pathPrefix: Backgrounds/MainBackground
+      guid: 797bdf47dccbad7458632b9f3875a7df
+    - name: ApartmentFront
+      pathPrefix: Backgrounds/MainBackground
+      guid: 7536550769c208e4bbf1634afb54dfde
+    - name: ApartmentFrontPast
+      pathPrefix: Backgrounds/MainBackground
+      guid: 4cf470b6e4f88484b93deee1975b2f1c
+    - name: BedroomBoy
+      pathPrefix: Backgrounds/MainBackground
+      guid: dd15a8afd294ab7459f17110163cd3f6
+    - name: Kitchen
+      pathPrefix: Backgrounds/MainBackground
+      guid: 53fd3e892059fd4409e766f3d4594f40
+    - name: Night
+      pathPrefix: Backgrounds/MainBackground
+      guid: f67e309162020ce4a84c405581dcfc10
+    - name: LivingRoom
+      pathPrefix: Backgrounds/MainBackground
+      guid: b6c01d00b4e422f4ab8492d8cfd8764e
+    - name: DayTransition
+      pathPrefix: Backgrounds/MainBackground
+      guid: 31adcc355a5067e4bb3b19de5909ef78
+    - name: ClassRoom
+      pathPrefix: Backgrounds/MainBackground
+      guid: 54c695ca699dd7f4eb294d14d8292377
+    - name: Cafetaria
+      pathPrefix: Backgrounds/MainBackground
+      guid: e3a238625cb79814e9eb7f44066d27b8
+    - name: Street
+      pathPrefix: Backgrounds/MainBackground
+      guid: e159bc5b6ed8b65468dc1b6e1db51b9b
